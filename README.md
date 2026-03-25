@@ -83,3 +83,13 @@ Central index and project tracker for DS research, reference notebooks, and lear
 ## Contributing
 
 File issues in the individual repos. Cross-cutting concerns (study plans, reading lists, gaps across topics) go here as issues and will surface on the project board.
+
+### Explorations
+
+| Repo | Description |
+|---|---|
+| [notes-huggingface](https://github.com/snafis/notes-huggingface) | HuggingFace exploration notebooks |
+| [notes-openai-playground](https://github.com/snafis/notes-openai-playground) | OpenAI API playground |
+| [notes-openai-cookbook](https://github.com/snafis/notes-openai-cookbook) | OpenAI cookbook experiments |
+| [notes-azure-vector-search](https://github.com/snafis/notes-azure-vector-search) | Azure vector search playground |
+| [notes-mcp-tinkerings](https://github.com/snafis/notes-mcp-tinkerings) | MCP tinkerings and experiments |
