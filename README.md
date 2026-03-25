@@ -12,27 +12,29 @@ Central index and project tracker for DS research, reference notebooks, and lear
 
 | Repo | Description |
 |---|---|
-| [notes-python-foundations](https://github.com/snafis/notes-python-foundations) | Notes on Python foundations for data science |
+| [notes-python-foundations](https://github.com/snafis/notes-python-foundations) | Python foundations for data science |
 | [notes-islr-python](https://github.com/snafis/notes-islr-python) | An Introduction to Statistical Learning — Python code |
 | [notes-ml-articles](https://github.com/snafis/notes-ml-articles) | Curated ML articles collection |
 | [notes-ml-algorithms](https://github.com/snafis/notes-ml-algorithms) | ML algorithms implemented from scratch |
 | [notes-ml-maths](https://github.com/snafis/notes-ml-maths) | Maths foundations for ML |
+| [notes-ml-mindmap](https://github.com/snafis/notes-ml-mindmap) | Machine learning mindmap |
 
 ### ML Topics
 
 | Repo | Description |
 |---|---|
-| [notes-interpretable-ml](https://github.com/snafis/notes-interpretable-ml) | Notes on interpretable & explainable ML |
-| [notes-recommender-systems](https://github.com/snafis/notes-recommender-systems) | Notes on recommender systems |
-| [notes-scikit-learn](https://github.com/snafis/notes-scikit-learn) | Notes on the scikit-learn library |
-| [notes-time-series-modelling](https://github.com/snafis/notes-time-series-modelling) | Notes on time series modelling |
+| [notes-interpretable-ml](https://github.com/snafis/notes-interpretable-ml) | Interpretable & explainable ML |
+| [notes-recommender-systems](https://github.com/snafis/notes-recommender-systems) | Recommender systems |
+| [notes-scikit-learn](https://github.com/snafis/notes-scikit-learn) | Scikit-learn library |
+| [notes-time-series-modelling](https://github.com/snafis/notes-time-series-modelling) | Time series modelling |
+| [notes-time-series-analysis](https://github.com/snafis/notes-time-series-analysis) | Time series analysis |
 | [notes-image-convolutions](https://github.com/snafis/notes-image-convolutions) | Demonstrations of image convolutions |
 
 ### Deep Learning
 
 | Repo | Description |
 |---|---|
-| [notes-generative-models](https://github.com/snafis/notes-generative-models) | Tutorials and learning resources on generative models |
+| [notes-generative-models](https://github.com/snafis/notes-generative-models) | Tutorials and resources on generative models |
 | [notes-deeplearning-ai-courses](https://github.com/snafis/notes-deeplearning-ai-courses) | Notes from deeplearning.ai short courses |
 | [notes-fastai](https://github.com/snafis/notes-fastai) | fastai course notebooks |
 | [notes-pytorch](https://github.com/snafis/notes-pytorch) | PyTorch learning notebooks |
@@ -43,6 +45,7 @@ Central index and project tracker for DS research, reference notebooks, and lear
 | Repo | Description |
 |---|---|
 | [notes-rl-agentic-ai](https://github.com/snafis/notes-rl-agentic-ai) | Personal reference for RL in agentic AI systems |
+| [notes-reinforcement-learning](https://github.com/snafis/notes-reinforcement-learning) | Reinforcement learning notebooks |
 
 ### Applied DS
 
@@ -51,6 +54,7 @@ Central index and project tracker for DS research, reference notebooks, and lear
 | [notes-marketing-ds](https://github.com/snafis/notes-marketing-ds) | Personal knowledge base for marketing data science |
 | [notes-ds-anthology](https://github.com/snafis/notes-ds-anthology) | Anthology of open access data science materials |
 | [notes-mostly-harmless-ds](https://github.com/snafis/notes-mostly-harmless-ds) | Mostly Harmless data science |
+| [notes-mapmathics](https://github.com/snafis/notes-mapmathics) | Mapmathics |
 
 ### Workshops & Masterclasses
 
@@ -61,6 +65,7 @@ Central index and project tracker for DS research, reference notebooks, and lear
 | [notes-ml-masterclass](https://github.com/snafis/notes-ml-masterclass) | Machine learning masterclass |
 | [notes-tableau](https://github.com/snafis/notes-tableau) | Tableau masterclass |
 | [notes-ds-masterclasses](https://github.com/snafis/notes-ds-masterclasses) | Curated notes on various DS topics |
+| [notes-git-masterclass](https://github.com/snafis/notes-git-masterclass) | Git masterclass |
 
 ### Daily Learning & Courses
 
