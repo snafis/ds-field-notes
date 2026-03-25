@@ -93,3 +93,18 @@ File issues in the individual repos. Cross-cutting concerns (study plans, readin
 | [notes-openai-cookbook](https://github.com/snafis/notes-openai-cookbook) | OpenAI cookbook experiments |
 | [notes-azure-vector-search](https://github.com/snafis/notes-azure-vector-search) | Azure vector search playground |
 | [notes-mcp-tinkerings](https://github.com/snafis/notes-mcp-tinkerings) | MCP tinkerings and experiments |
+
+### Courses & Programmes
+
+| Repo | Description |
+|---|---|
+| [notes-udacity-data-eng](https://github.com/snafis/notes-udacity-data-eng) | Udacity data engineering nanodegree |
+| [notes-ds-journey](https://github.com/snafis/notes-ds-journey) | Data science journey notebooks |
+
+### Reference
+
+| Repo | Description |
+|---|---|
+| [notes-cheatsheets](https://github.com/snafis/notes-cheatsheets) | Data science and software design cheatsheets |
+| [notes-pyspark](https://github.com/snafis/notes-pyspark) | PySpark notes and notebooks |
+| [notes-transformers](https://github.com/snafis/notes-transformers) | Transformers notebooks (older reference) |
