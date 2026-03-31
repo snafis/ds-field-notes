@@ -1,4 +1,4 @@
-# dsnotebooks
+# ds-notes
 
 Central index and project tracker for DS research, reference notebooks, and learning materials.
 
